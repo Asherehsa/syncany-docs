@@ -74,7 +74,7 @@ Example 1: Create new repository (interactive mode)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ::
 
-	$ sy init --create-target
+	$ sy init
 	Choose a storage plugin. Available plugins are: local, s3, webdav
 	Plugin: local
 	
